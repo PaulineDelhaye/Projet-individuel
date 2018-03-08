@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pauline DecouverteBordeaux</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cible"></string>
+</resources>
